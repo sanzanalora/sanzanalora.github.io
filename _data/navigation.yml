@@ -1,34 +1,22 @@
 # main links links
 main:
-  - title: "Education & Awards"
-    url: /education_awards/
+  - title: "Home"
+    url: /
     
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-    #url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/   
-
-   - title: "Research"
-    url: /research/   
-
-   - title: "Projects"
-    url: /projects/   
-
-   - title: "Activities"
-    url: /activities/   
+  - title: "Education & Awards"
+    url: /education-awards/    
     
-  #- title: "Portfolio"
-   # url: /portfolio/
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
+  - title: "Projects"
+    url: /projects/
+  
+  - title: "Activities"
+    url: /activities/
+    
+  - title: "Experiences"
+    url: /experiences/ 
     
   - title: "CV"
     url: /cv/
-    
- # - title: "Guide"
-   # url: /markdown/
