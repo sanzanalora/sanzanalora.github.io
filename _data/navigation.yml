@@ -8,15 +8,18 @@ main:
 
   - title: "Education & Awards"
     url: /education_awards/    
+
+  - title: "Research Experience"
+    url: /research_experiences/ 
+
+  - title: "Teaching Experience"
+    url: /teaching_experiences/ 
     
   - title: "Projects"
     url: /projects/
   
   - title: "Activities"
     url: /activities/
-    
-  - title: "Experiences"
-    url: /experiences/ 
     
   - title: "CV"
     url: /cv/
