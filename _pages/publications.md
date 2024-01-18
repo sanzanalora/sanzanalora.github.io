@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**[Google Scholar](https://scholar.google.com/citations?user=rdiZ5CgAAAAJ)**
+**[Google Scholar](https://scholar.google.com/citations?user=rdiZ5CgAAAAJ)** **|** **[Researchgate](https://www.researchgate.net/profile/Sanzana-Lora)**
 
 ## 2023
 
@@ -19,5 +19,4 @@ Emotion of Users’ Analyzing Social Media Bengali Comments Using Deep Learning 
 
 ## 2020
 - **<font color="green">Sanzana Karim Lora</font>**, Nazmus Sakib, Shahana Alam Antora, Nusrat Jahan, [“A Comparative Study to Detect Emotions from Tweets Analyzing Machine Learning and Deep Learning Techniques”](https://www.researchgate.net/publication/343812875_A_Comparative_Study_to_Detect_Emotions_from_Tweets_Analyzing_Machine_Learning_and_Deep_Learning_Techniques), International Journal of Applied Information Systems (IJAIS) 12(30):6-12, June 2020.
-- 
-
+  
