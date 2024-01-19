@@ -13,7 +13,6 @@ redirect_from:
 
 ## [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/), Dhaka, Bangladesh.
 - **CGPA: 3.75** <span style ="color:Green"> [*out of 4.00* ] </span>
-
 - **Courses:** Data Mining, Data Management in the Cloud, Advanced Human-Computer Interaction, Advanced Dependable and Fault Tolerant Computer Systems, Programming Languages and Systems, Wireless Ad Hoc Network
 
 ## B.Sc in Computer Science and Engineering
