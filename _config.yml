@@ -83,9 +83,9 @@ author:
   name             : "Sanzana Karim Lora"
   avatar           : "profile.png"
   bio              : "Unlocking language's potential in resource limitations. Low-resource NLP researcher on a mission to innovate. 🌍🔍"
-  location         : "Bangladesh"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rdiZ5CgAAAAJ&hl=en"
   email            :  sanzanalora@yahoo.com
   researchgate     :  "https://www.researchgate.net/profile/Sanzana_Lora"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : skl1
   wikipedia        :
 
 
