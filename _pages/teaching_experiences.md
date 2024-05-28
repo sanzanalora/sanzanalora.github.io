@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ## [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh.
-**Lecturer(Adjunct), CSE Department <span style="color:Blue">(Jul 2021 – Present)</span>** 
+**Lecturer(Adjunct), CSE Department <span style="color:Blue">(Jun 2021 – Present)</span>** 
 
 
 **Courses Taught:** 
--  📙 Digital Image Processing(Theory) (CSE 4228) <span style="color:Blue"> [Fall'21, Fall'22] </span>
+-  📙 Digital Image Processing(Theory) (CSE 4227) <span style="color:Blue"> [Fall'21, Fall'22, Fall'23] </span>
+-  📙 Digital Image Processing Lab (CSE 4228) <span style="color:Blue"> [Fall'23] </span>
 -  📙 Distributed Database Systems Lab (CSE 4126) <span style="color:Blue"> [Fall'21, Fall'22] </span>
 -  📙 Soft Computing Lab (CSE 4238) <span style="color:Blue"> [Fall'20] </span>
 -  📙 Digital Logic Design Lab (CSE 2106) <span style="color:Blue"> [Spring'22] </span>
