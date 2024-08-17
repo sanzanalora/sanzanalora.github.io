@@ -10,17 +10,27 @@ redirect_from:
 {% include base_path %}
 
 
-(under development)
-
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Expertize:
+  * Natural Language Processing, Specifically for low-resource languages
+* Development:
+  * Android App Development
+  * Web Development
+* Programming Languages:
+  * Python
+  * MATLAB
+  * C
+  * Java
+* Database
+  * MySQL
+  * MsSQL
+  * PL/SQL
+  * Oracle
+* Others:
+  * LaTeX
+  * Microsoft Office
 
   
 Talks
@@ -30,6 +40,7 @@ Talks
   {% endfor %}</ul>
   
   
-Service and leadership
+Leadership
 ======
-* 
+* Group leader of all academic projects from 2016 to 2024
+* Group leader of undergraduate thesis group from 2019 to 2020
