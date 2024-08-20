@@ -21,7 +21,7 @@ redirect_from:
 - Online Grocery Shopping Management System
   - Type: Desktop application
   - Platform: Java Fx
--  Learn C Easily(C programming tutorial app)
+-  Learn C Easily (C programming tutorial app)
   - Type: Android application
   - Platform: Android Studio
 - eWomenHub
