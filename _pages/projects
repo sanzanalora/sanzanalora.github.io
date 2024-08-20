@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: ""
+permalink: /Projects/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 # Graduate Course Projects
