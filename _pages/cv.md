@@ -33,13 +33,6 @@ Skills
   * Microsoft Office
 
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
 Leadership
 ======
 * Group leader of all academic projects from 2016 to 2024
