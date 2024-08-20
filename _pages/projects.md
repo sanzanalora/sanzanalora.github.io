@@ -22,8 +22,8 @@ redirect_from:
   - Type: Desktop application
   - Platform: Java Fx
 -  Learn C Easily (C programming tutorial app)
-  - Type: Android application
-  - Platform: Android Studio
+    - Type: Android application
+    - Platform: Android Studio
 - eWomenHub
   - Type: Website
   - Platform: PHP, HTML, CSS, MySql, Bootstrap
