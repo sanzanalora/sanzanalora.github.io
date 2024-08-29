@@ -22,4 +22,7 @@ Emotion of Users’ Analyzing Social Media Bengali Comments Using Deep Learning 
 
 ## 2020
 - **<font color="green">Sanzana Karim Lora</font>**, Nazmus Sakib, Shahana Alam Antora, Nusrat Jahan, [“A Comparative Study to Detect Emotions from Tweets Analyzing Machine Learning and Deep Learning Techniques”](https://www.researchgate.net/publication/343812875_A_Comparative_Study_to_Detect_Emotions_from_Tweets_Analyzing_Machine_Learning_and_Deep_Learning_Techniques), International Journal of Applied Information Systems (IJAIS) 12(30):6-12, June 2020.
-  
+
+## Under Review
+- **<font color="green">Sanzana Karim Lora</font>**,  Rifat Shahriyar, ["ConVerSum: A Contrastive Learning based Approach for Data-Scarce Solution of Cross-Lingual Summarization Beyond Direct Equivalents"](https://arxiv.org/abs/2408.09273)
+- **<font color="green">Sanzana Karim Lora</font>**,  Sadia Afrin Purba, Bushra Hossain, Tanjina Oriana, Ashek Seum, ["Infinite Scrolling, Finite Satisfaction: Exploring User Behavior and Satisfaction on Social Media in Bangladesh"](https://www.arxiv.org/abs/2408.09601)
