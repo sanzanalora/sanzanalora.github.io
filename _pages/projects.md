@@ -12,6 +12,8 @@ redirect_from:
 - Sarcasm Detection from Bengali Text with Correct Classification of Confusing Polarity
 - Impression Generation from Radiology Report's Findings Section
 - Investigating Sarcasm from Social Media for Both Text and Memes
+- Estimating Crowd Density Using Social Network Data
+- Big Data, Big Mess: A Performance Comparison of Garbage Collectors in Spark and Hadoop
 
 # Undergraduate Course Projects
 ## Software Projects
@@ -53,4 +55,4 @@ redirect_from:
 - SAP-1 
   - Proteus 8 Professional
  
-*All project works  can be found in [Github](https://github.com/sanzanalora/)*
+*Codes can be found in [Github](https://github.com/sanzanalora/)*
