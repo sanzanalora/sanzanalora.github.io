@@ -5,8 +5,8 @@ permalink: /teaching_experiences/
 author_profile: true
 ---
 
-## [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh.
-**Lecturer(Adjunct), CSE Department <span style="color:Blue">(Jun 2021 – Present)</span>** 
+## 🏛️ [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/), Dhaka, Bangladesh.
+🏷️ **Lecturer(Adjunct), CSE Department <span style="color:Blue">(Jun 2021 – Present)</span>** 
 
 
 **Courses Taught:** 
@@ -18,8 +18,8 @@ author_profile: true
 -  📙 Introduction to Computer Science (CSE 2146) <span style="color:Blue"> [Fall'20] </span>
 -  📙 Introduction to Computer Systems (CSE 1108) <span style="color:Blue"> [Spring'21] </span>
 
-## [Stamford University Bangladesh](https://www.stamforduniversity.edu.bd/), Dhaka, Bangladesh.
-**Lecturer(Part-time), CSE Department <span style="color:Blue">(Jan 2022 – Dec 2022)</span>** 
+## 🏛️ [Stamford University Bangladesh](https://www.stamforduniversity.edu.bd/), Dhaka, Bangladesh.
+🏷️ **Lecturer(Part-time), CSE Department <span style="color:Blue">(Jan 2022 – Dec 2022)</span>** 
 
 **Courses Taught:** 
 -  📙 Database Management System Sessional (CSE 224) <span style="color:Blue"> [Spring'22] </span>
