@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching Experiences"
+title: "Teaching Experiences 👨‍🏫"
 permalink: /teaching_experiences/
 author_profile: true
 ---
