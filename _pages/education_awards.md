@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Educational Qualifications
+# Educational Qualifications 🎓
 
 ## M.Sc Engg in Computer Science and Engineering (Jul 2022 - Oct 2024)
 
@@ -28,7 +28,7 @@ redirect_from:
 
 ---
 
-# Awards & Scholarship
+# Awards & Scholarship 🥇
 
 - Achieved Tuition Waver for excellent academic results in the university for the Fall’18 semester in 2019
 - Received an award of meritorious student for getting GPA 5 from Prothom Alo in 2013
