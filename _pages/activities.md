@@ -11,12 +11,20 @@ redirect_from:
 
 Seminar Talk 🎤
 ======
-* Speaker in the postgraduate seminar at BUET on 21 September 2024. [Detail News](https://cse.buet.ac.bd/home/news_detail/187)
+*  **Title:** Data-Scarce Solution for Cross-Lingual Summarization without Direct Equivalents
+**Speaker** - Postgraduate Seminar, BUET, 21 September 2024
 
 Conference Presentations 🌍
 ======
-* Presenter of research poster at the 2022 9th International Conference on Networking, Systems and Security (9th NSysS 2022)
-* Presenter of research paper at 2nd International Conference on Advanced Information and Communication Technology 2020 (ICAICT 2020)
+* **Presenter of Research Poster**
+9th International Conference on Networking, Systems and Security (9th NSysS 2022), December 2022
+* **Presenter of Research Paper**
+2nd International Conference on Advanced Information and Communication Technology (ICAICT 2020), November 2020
+
+Research Exhibitions
+======
+* Showcased models developed by BUET CSE NLP Group at RISE Internal Research Grant Awarding and Research Exhibit, BUET - March 18, 2023
+* Showcased models developed by BUET CSE NLP Group at RISE Internal Research Grant Awarding and Research Exhibit, BUET - February 17, 2024
 
 Leadership 🤝
 ======
