@@ -29,7 +29,7 @@ Thank you for visiting my digital space! Dive into my projects and publications,
 - <span style="color:Blue"> [Jul 2022] </span> Started M.Sc at [Bangladesh University of Engineering and Technology (BUET) ](https://cse.buet.ac.bd/)
 - <span style="color:Blue"> [Jul 2021] </span> Started working as an Adjunct Lecturer at [Ahsanullah University of Science & Technology (AUST)](http://aust.edu/)
 - <span style="color:Blue"> [Feb 2021] </span> - **Paper Newsflash** ⚡ Published a paper at [ICAICT 2020](http://icaict.uiu.ac.bd/)
-- <span style="color:Blue"> [Dec 2024] </span> **Thesis Defended** ⚔️ Successfully defended BSc thesis at AUST
+- <span style="color:Blue"> [Dec 2022] </span> **Thesis Defended** ⚔️ Successfully defended BSc thesis at AUST
 - <span style="color:Blue"> [Nov 2020] </span> - Presented a paper at [ICAICT 2020](http://icaict.uiu.ac.bd/)
 - <span style="color:Blue"> [Jun 2020] </span> - **Paper Newsflash** ⚡ Published a research paper at a journal
 
