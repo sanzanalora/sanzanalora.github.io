@@ -13,16 +13,16 @@ Seminar Talk 🎤
 ======
 *  **Title:** Data-Scarce Solution for Cross-Lingual Summarization without Direct Equivalents
   
-**Speaker** - Postgraduate Seminar, BUET, 21 September 2024
+   **Speaker** - Postgraduate Seminar, BUET, 21 September 2024
 
 Conference Presentations 🌍
 ======
 * **Presenter of Research Poster**
   
-9th International Conference on Networking, Systems and Security (9th NSysS 2022), December 2022
+    9th International Conference on Networking, Systems and Security (9th NSysS 2022), December 2022
 * **Presenter of Research Paper**
   
-2nd International Conference on Advanced Information and Communication Technology (ICAICT 2020), November 2020
+    2nd International Conference on Advanced Information and Communication Technology (ICAICT 2020), November 2020
 
 Research Exhibitions 📅
 ======
