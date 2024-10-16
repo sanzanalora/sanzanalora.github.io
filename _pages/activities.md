@@ -29,8 +29,10 @@ Research Exhibitions 📅
 * Showcased models developed by BUET CSE NLP Group at RISE Internal Research Grant Awarding and Research Exhibit, BUET - March 18, 2023
 * Showcased models developed by BUET CSE NLP Group at RISE Internal Research Grant Awarding and Research Exhibit, BUET - February 17, 2024
 
-Leadership 🤝
+Leadership Experience 🤝
 ======
-* Group leader of all academic projects from 2016 to 2024
-* Group leader of undergraduate thesis group from 2019 to 2020
+* Lead Course Instructor of all sessional courses at AUST - June 2021 to now.
+* Lead Course Instructor of all courses at SUB - January 2022 to December 2022.
+* Group leader of all academic projects at AUST and BUET - 2016 to 2024
+* Group leader of undergraduate thesis group at AUST - 2019 to 2020
 
