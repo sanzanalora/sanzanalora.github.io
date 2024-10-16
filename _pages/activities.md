@@ -31,8 +31,8 @@ Research Exhibitions 📅
 
 Leadership Experience 🤝
 ======
-* Lead Course Instructor of all sessional courses at AUST - June 2021 to now.
-* Lead Course Instructor of all courses at SUB - January 2022 to December 2022.
+* Lead Course Instructor of all sessional courses at AUST - June 2021 to now
+* Lead Course Instructor of all courses at SUB - January 2022 to December 2022
 * Group leader of all academic projects at AUST and BUET - 2016 to 2024
 * Group leader of undergraduate thesis group at AUST - 2019 to 2020
 
