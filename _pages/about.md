@@ -20,7 +20,7 @@ Thank you for visiting my digital space! Dive into my projects and publications,
 
 
 ## In the spotlight 🌟🌟🌟
-- <span style="color:Blue"> [Nov 2023] </span>  **Paper Newsflash** ⚡ One paper got accepted at [NSysS 2024](https://cse.buet.ac.bd/nsyss2024/) 
+- <span style="color:Blue"> [Nov 2024] </span>  **Paper Newsflash** ⚡ One paper got accepted at [NSysS 2024](https://cse.buet.ac.bd/nsyss2024/) 
 - <span style="color:Blue"> [Oct 2024] </span> **Thesis Defended** ⚔️ Successfully defended MSc thesis at BUET
 - <span style="color:Blue"> [Nov 2023] </span>  **Paper Newsflash** ⚡ One paper got accepted at [Heliyon](https://www.cell.com/heliyon/home)   ***<font color="red"> (Q1 Journal) </font>***
 - <span style="color:Blue"> [Oct 2023] </span>  **Paper Newsflash** ⚡ One paper got accepted at [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)  ***<font color="red"> (Q1 Journal) </font>***
