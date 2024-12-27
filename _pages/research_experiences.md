@@ -17,8 +17,8 @@ author_profile: true
 ## 🔍 Undergraduate Thesis Co-Supervisor *(3 separate groups)* (Dec 2024 - Present)
 - [Ahsanullah University of Science and Technology](www.aust.edu), Dhaka, Bangladesh.
 - **Supervisor:** [Prof. Dr. Mohammad Shafiul Alam](https://scholar.google.com/citations?user=5ZXfn_cAAAAJ&hl=en), CSE, AUST
-  
- ## 🔍 Research Supervisor *(Independent)* (Jun 2024 - Present)
+
+## 🔍 Research Supervisor *(Independent)* (Jun 2024 - Present)
 - Low-resource NLP, Deep Learning
 - Dhaka, Bangladesh
 
