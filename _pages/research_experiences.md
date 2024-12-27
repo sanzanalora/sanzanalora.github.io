@@ -5,17 +5,21 @@ permalink: /research_experiences/
 author_profile: true
 ---
 
-## 🔍 Research Assistant (Jul 2022 - Present)
+## 🔍 Research Assistant (Jul 2022 - Oct 2024)
 - [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/), Dhaka, Bangladesh.
-- **Supervisor:** Prof. Dr. Rifat Shahriyar, CSE, BUET
-
-## 🔍 Research Supervisor *(Independent)* (Jun 2024 - Present)
-- Low-resource NLP, Deep Learning
-- Dhaka, Bangladesh
+- **Supervisor:** [Prof. Dr. Rifat Shahriyar](https://scholar.google.com.au/citations?user=p-w4hOUAAAAJ&hl=en), CSE, BUET
 
 ## 🔍 Reviewer/Program Committee Member (Aug 2024 - Present)
 - [icSoftComp2024](https://www.charusat.ac.in/icSoftComp2024/index.php), Springer
 - [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing), Cambridge University Press
+
+## 🔍 Undergraduate Thesis Co-Supervisor *(3 separate groups)* (Dec 2024 - Present)
+- [Ahsanullah University of Science and Technology](www.aust.edu), Dhaka, Bangladesh.
+- **Supervisor:** [Prof. Dr. Mohammad Shafiul Alam](https://scholar.google.com/citations?user=5ZXfn_cAAAAJ&hl=en), CSE, AUST
+  
+ ## 🔍 Research Supervisor *(Independent)* (Jun 2024 - Present)
+- Low-resource NLP, Deep Learning
+- Dhaka, Bangladesh
 
 ## 🔍 Graduate Thesis (Jul 2022 - Oct 2024)
 - [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/), Dhaka, Bangladesh.
