@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+# Academic Activities / Services
 ## Seminar Talk 🎤
-
 - **Title:** [Data-Scarce Solution for Cross-Lingual Summarization without Direct Equivalents](https://cse.buet.ac.bd/home/news_detail/187)
-  **Speaker** - Postgraduate Seminar, BUET, 21 September 2024
+- **Speaker** - Postgraduate Seminar, BUET, 21 September 2024
 
 ## Conference Presentations 🌍
 - **Presenter of Research Paper**
