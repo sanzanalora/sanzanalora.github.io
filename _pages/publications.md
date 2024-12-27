@@ -10,6 +10,8 @@ author_profile: true
 ## 2024
 
 - ✍️ **<font color="green">Sanzana Karim Lora</font>**, G. M. Shahariar, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, Faisal Muhammad Shah; ["Ben-Sarc: A Self-Annotated Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation"]( https://doi.org/10.1017/nlp.2024.11), Natural Language Processing. ***<font color="red"> (Q1 Journal) </font>***
+- ✍️ **<font color="green">Sanzana Karim Lora</font>**, Istiak Ahmed, Muhammad Abdullah Adnan, ["Short Paper: A
+Cloud-based Distributed Approach for Social Media Sentiment Analysis using Machine Learning with Distributed Hyperparameter Tuning"](https://doi.org/10.1145/3704522.3704548), accepted at 11th International Conference on Networking, Systems, and Security. (11th NSysS 2024), Khulna, Bangladesh, ACM, New York, NY, USA. 
 
   
 ## 2023
@@ -23,9 +25,6 @@ Emotion of Users’ Analyzing Social Media Bengali Comments Using Deep Learning 
 ## 2020
 - ✍️ **<font color="green">Sanzana Karim Lora</font>**, Nazmus Sakib, Shahana Alam Antora, Nusrat Jahan, [“A Comparative Study to Detect Emotions from Tweets Analyzing Machine Learning and Deep Learning Techniques”](https://www.researchgate.net/publication/343812875_A_Comparative_Study_to_Detect_Emotions_from_Tweets_Analyzing_Machine_Learning_and_Deep_Learning_Techniques), International Journal of Applied Information Systems (IJAIS) 12(30):6-12, June 2020.
 
-## Accepted 
-- ✍️ **<font color="green">Sanzana Karim Lora</font>**, Istiak Ahmed, Muhammad Abdullah Adnan, ["Short Paper: A
-Cloud-based Distributed Approach for Social Media Sentiment Analysis using Machine Learning with Distributed Hyperparameter Tuning"](), accepted at 11th International Conference on Networking, Systems, and Security. (11th NSysS 2024), Khulna, Bangladesh, ACM, New York, NY, USA. 
 
 ## Under Review
 - ✍️ **<font color="green">Sanzana Karim Lora</font>**,  M. Sohel Rahman, Rifat Shahriyar, ["ConVerSum: A Contrastive Learning based Approach for Data-Scarce Solution of Cross-Lingual Summarization Beyond Direct Equivalents"](https://arxiv.org/abs/2408.09273)
