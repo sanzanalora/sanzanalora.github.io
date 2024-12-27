@@ -10,8 +10,9 @@ author_profile: true
 - **Supervisor:** [Prof. Dr. Rifat Shahriyar](https://scholar.google.com.au/citations?user=p-w4hOUAAAAJ&hl=en), CSE, BUET
 
 ## 🔍 Reviewer/Program Committee Member (Aug 2024 - Present)
-- [icSoftComp2024](https://www.charusat.ac.in/icSoftComp2024/index.php), Springer
-- [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing), Cambridge University Press
+- [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing), Cambridge University Press. ***(Q1)***
+-  [icSoftComp2024](https://www.charusat.ac.in/icSoftComp2024/index.php), Springer. ***(Q4)***
+- [COLING 2025](https://coling2025.org/) ***(Core A)**(Secondary Reviewer)*
 
 ## 🔍 Undergraduate Thesis Co-Supervisor *(3 separate groups)* (Dec 2024 - Present)
 - [Ahsanullah University of Science and Technology](www.aust.edu), Dhaka, Bangladesh.
