@@ -29,9 +29,9 @@ redirect_from:
 ---
 
 # Awards & Scholarship 🥇
-
-- Achieved Tuition Waver for excellent academic results in the university for the Fall’18 semester in 2019
-- Received an award of meritorious student for getting GPA 5 from Prothom Alo in 2013
-- Achieved the Junior Scholarship in class Eight under the Dhaka education board in 2010
+- Ranked 13th out of 161 students in B.Sc in CSE, AUST, 2021
+- Tuition Waiver for excellent academic result in AUST for Fall’18 semester, 2019
+- Meritorious student award for getting GPA 5, Prothom Alo, 2013
+- Junior Scholarship in class Eight, Dhaka education board, 2010
 
 ---
