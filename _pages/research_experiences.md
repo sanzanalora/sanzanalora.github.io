@@ -11,10 +11,11 @@ author_profile: true
 
 ## 🔍 Reviewer/Program Committee Member (Aug 2024 - Present)
 - [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing), Cambridge University Press. ***(Q1)***
--  [icSoftComp2024](https://www.charusat.ac.in/icSoftComp2024/index.php), Springer. ***(Q4)***
+- [ACM Transactions on Asian and Low-Resource Language Information Processing](https://dl.acm.org/journal/tallip) ***(Q2)***
+- [icSoftComp2024](https://www.charusat.ac.in/icSoftComp2024/index.php), Springer. ***(Q4)***
 - [COLING 2025](https://coling2025.org/) ***(Core A)**(Secondary Reviewer)*
 
-## 🔍 Undergraduate Thesis Co-Supervisor *(3 separate groups)* (Dec 2024 - Present)
+## 🔍 Undergraduate Thesis Mentoring *(3 separate groups)* (Dec 2024 - Feb 2025)
 - [Ahsanullah University of Science and Technology](www.aust.edu), Dhaka, Bangladesh.
 - **Supervisor:** [Prof. Dr. Mohammad Shafiul Alam](https://scholar.google.com/citations?user=5ZXfn_cAAAAJ&hl=en), CSE, AUST
 
