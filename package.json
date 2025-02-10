@@ -1,5 +1,5 @@
 {
-  "name": "minimal-mistakes",
+  "name": "minimal-mistakes", 
   "version": "3.4.2",
   "description": "Minimal Mistakes Jekyll theme npm build scripts",
   "repository": {
