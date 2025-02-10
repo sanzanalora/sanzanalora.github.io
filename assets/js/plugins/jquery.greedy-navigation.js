@@ -1,5 +1,5 @@
 /*
-* Greedy Navigation
+* Greedy Navigation 
 *
 * http://codepen.io/lukejacksonn/pen/PwmwWV
 *
