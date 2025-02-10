@@ -1,6 +1,6 @@
 /*jshint browser:true */
 /*!
-* FitVids 1.1
+* FitVids 1.1 
 *
 * Copyright 2013, Chris Coyier - http://css-tricks.com + Dave Rupert - http://daverupert.com
 * Credit to Thierry Koblentz - http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/
