@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 # Educational Qualifications 👩‍🎓
+## 🎓 Ph.D in Computer Science and Engineering (May 2025 - Present)
+
+## [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/), Dhaka, Bangladesh.
 
 ## 🎓 M.Sc Engg in Computer Science and Engineering (Jul 2022 - Oct 2024)
 
@@ -29,9 +32,13 @@ redirect_from:
 ---
 
 # Awards & Scholarship 🥇
+- Awarded ACM Complimentary Professional Membership for contribution as an author in an ACM journal, 2025-2026
+- Received funding from [RISE, BUET](https://rise.buet.ac.bd/#/), to support a research assistantship integral to my M.Sc. thesis, 2022
 - Ranked 13th out of 161 students in B.Sc in CSE, AUST, 2021
-- Tuition Waiver for excellent academic result in AUST for Fall’18 semester, 2019
+- Tuition Waiver for excellent academic results in AUST for Fall’18 semester, 2019
 - Meritorious student award for getting GPA 5, Prothom Alo, 2013
-- Junior Scholarship in class Eight, Dhaka education board, 2010
+- Junior Scholarship in class Eight, Dhaka Education Board, 2010
+- Garnered 38 citations on Google Scholar, as of 12 June 2025
+- All first-authored publications, as of March 2025
 
 ---
