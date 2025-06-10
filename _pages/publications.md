@@ -7,15 +7,16 @@ author_profile: true
 
 **[📍 Google Scholar ](https://scholar.google.com/citations?user=rdiZ5CgAAAAJ)** | **[📍 Researchgate](https://www.researchgate.net/profile/Sanzana-Lora)**
 
-## 2024
+## 2025
+- ✍️ **<font color="green">Sanzana Karim Lora</font>**,  M. Sohel Rahman, Rifat Shahriyar, ["ConVerSum: A Contrastive Learning based Approach for Data-Scarce Solution of Cross-Lingual Summarization Beyond Direct Equivalents"](https://dl.acm.org/doi/10.1145/3722109), ACM Transactions on Asian and Low-Resource Language Information Processing, Volume 24, Issue 5, Article No.: 50, Pages 1 - 22, May 2025. ***<font color="red"> (Q2 Journal) </font>***
 
+## 2024
 - ✍️ **<font color="green">Sanzana Karim Lora</font>**, G. M. Shahariar, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, Faisal Muhammad Shah; ["Ben-Sarc: A Self-Annotated Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation"]( https://doi.org/10.1017/nlp.2024.11), Natural Language Processing. ***<font color="red"> (Q1 Journal) </font>***
 - ✍️ **<font color="green">Sanzana Karim Lora</font>**, Istiak Ahmed, Muhammad Abdullah Adnan, ["Short Paper: A
-Cloud-based Distributed Approach for Social Media Sentiment Analysis using Machine Learning with Distributed Hyperparameter Tuning"](https://doi.org/10.1145/3704522.3704548), accepted at 11th International Conference on Networking, Systems, and Security. (11th NSysS 2024), Khulna, Bangladesh, ACM, New York, NY, USA. 
+Cloud-based Distributed Approach for Social Media Sentiment Analysis using Machine Learning with Distributed Hyperparameter Tuning"](https://doi.org/10.1145/3704522.3704548), 11th International Conference on Networking, Systems, and Security. (11th NSysS 2024), Khulna, Bangladesh, ACM, New York, NY, USA. 
 
   
 ## 2023
-
 - ✍️ **<font color="green">Sanzana Karim Lora</font>**, Ishrat Jahan, Rahad Hussain, Rifat Shahriyar, A.B.M Alim Al Islam; ["A transformer-based generative adversarial learning to detect sarcasm from Bengali text with correct classification of confusing text"](https://www.cell.com/heliyon/pdf/S2405-8440(23)09739-6.pdf), Heliyon, volume 9, issue 12. ***<font color="red"> (Q1 Journal) </font>***
 
 ## 2021
@@ -27,5 +28,4 @@ Emotion of Users’ Analyzing Social Media Bengali Comments Using Deep Learning 
 
 
 ## Under Review
-- ✍️ **<font color="green">Sanzana Karim Lora</font>**,  M. Sohel Rahman, Rifat Shahriyar, ["ConVerSum: A Contrastive Learning based Approach for Data-Scarce Solution of Cross-Lingual Summarization Beyond Direct Equivalents"](https://arxiv.org/abs/2408.09273)
-- ✍️ **<font color="green">Sanzana Karim Lora</font>**,  Sadia Afrin Purba, Bushra Hossain, Tanjina Oriana, Ashek Seum, ["Infinite Scrolling, Finite Satisfaction: Exploring User Behavior and Satisfaction on Social Media in Bangladesh"](https://www.arxiv.org/abs/2408.09601)
+- ✍️ **<font color="green">Sanzana Karim Lora</font>**,  Sadia Afrin Purba, Bushra Hossain, Tanjina Oriana, Ashek Seum, Sadia Sharmin, ["Infinite Scrolling, Finite Satisfaction: Exploring User Behavior and Satisfaction on Social Media in Bangladesh"](https://www.arxiv.org/abs/2408.09601)
