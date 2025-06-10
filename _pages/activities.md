@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 # Academic Activities / Services
+## Professional Membership 🤝
+- Association for Computing Machinery (ACM), Complimentary Professional Membership, 2025-2026
 ## Seminar Talk 🎤
 - **Title:** [Data-Scarce Solution for Cross-Lingual Summarization without Direct Equivalents](https://cse.buet.ac.bd/home/news_detail/187)
 - **Speaker** - Postgraduate Seminar, BUET, 21 September 2024
