@@ -15,11 +15,11 @@ Thank you for visiting my digital space! Dive into my projects and publications,
 
 **Contact**: sanzanalora (at) yahoo (dot) com
 
-[**Download Resume**]
-
 
 
 ## In the spotlight 🌟🌟🌟
+- <span style="color:Blue"> [Sep 2025] </span> **Citation Milestone** 🎯 Crossed 50+ citations with h-index 4 on Google Scholar
+- <span style="color:Blue"> [Jun 2025] </span> Started working as a Lecturer at [East West University (EWU)](https://ewubd.edu/)
 - <span style="color:Blue"> [Mar 2025] </span>  **Paper Newsflash** ⚡ One paper got accepted at [TALLIP](https://dl.acm.org/journal/tallip) ***<font color="red"> (Q2 Journal) </font>***
 - <span style="color:Blue"> [Nov 2024] </span>  **Paper Newsflash** ⚡ One paper got accepted at [NSysS 2024](https://cse.buet.ac.bd/nsyss2024/) 
 - <span style="color:Blue"> [Oct 2024] </span> **Thesis Defended** ⚔️ Successfully defended MSc thesis at BUET
