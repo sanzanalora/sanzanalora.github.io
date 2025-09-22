@@ -14,12 +14,23 @@ main:
 
   - title: "Teaching Experience"
     url: /teaching_experiences/ 
-    
-  - title: "Projects"
-    url: /projects/
   
   - title: "Activities"
     url: /activities/
+    children:
+       - title: "Professional Membership"
+         url: /activities/professional_membership/
+       - title: "Reviewer / Committee"
+         url: /activities/reviewer/
+       - title: "Seminar Talks & Presentations"
+         url: /activities/talks/
+       - title: "Workshops & Training"
+         url: /activities/workshops_training/
+       - title: "Leadership"
+         url: /activities/leadership/
+         
+  - title: "Projects"
+    url: /projects/
     
   #- title: "CV"
    # url: /cv/
