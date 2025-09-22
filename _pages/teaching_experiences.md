@@ -9,11 +9,11 @@ author_profile: true
 
 **Courses Taught:** 
 -  📙 Algorithms *[Theory & Lab]* (CSE246) <span style="color:Blue"> [Summer'25] </span>
--  📙 Database Systems *[Theory & Lab]* (CSE302) <span style="color:Blue"> [Summer'25] </span>
--  📙 Information System Analysis and Design *[Theory & Lab]* (CSE347) <span style="color:Blue"> [Summer'25] </span>
+-  📙 Database Systems *[Theory & Lab]* (CSE302) <span style="color:Blue"> [Summer'25, Fall'25] </span>
+-  📙 Information System Analysis and Design *[Theory & Lab]* (CSE347) <span style="color:Blue"> [Summer'25, Fall'25] </span>
 
 ## 🏛️ [Independent University, Bangladesh (IUB)](https://iub.ac.bd/)
-🏷️ **Lecturer B (Adjunct), CSE Department <span style="color:Blue">(Jan 2025 – Present)</span>** 
+🏷️ **Lecturer B (Adjunct), CSE Department <span style="color:Blue">(Jan 2025 – Aug 2025)</span>** 
 
 **Courses Taught:** 
 -  📙 Fundamentals of Computer Systems (CIS101) <span style="color:Blue"> [Spring'25, Summer'25] </span>
