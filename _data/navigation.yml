@@ -16,6 +16,7 @@ main:
     url: /teaching_experiences/ 
   
   - title: "Activities"
+    url: /activities/
     nav: true
     children:
        - title: "Professional Membership"
